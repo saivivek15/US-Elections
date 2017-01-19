@@ -1,0 +1,807 @@
+#############################
+the central issue  0.0 0.0
+unaccountable money  0.0 0.0
+electoral system  0.0 0.0
+the great tradition  0.672 0.0
+reasonable regulation  0.0 0.0
+comprehensive background  0.667 0.0
+the online loophole  0.0 0.0
+that reasonable regulation  0.0 0.0
+an individual right  0.0 0.0
+commonsense regulation  0.0 0.0
+a constitutional right  0.0 0.0
+own health  0.0 0.0
+the great honor  0.88 0.0
+medical advice  0.0 0.0
+a young girl  0.0 0.0
+a good life  0.744 0.0
+American citizen  0.0 0.0
+every undocumented person  0.0 0.0
+a massive law  0.0 0.0
+comprehensive immigration  0.667 0.0
+any violent person  0.0 0.661
+comprehensive immigration  0.667 0.0
+new technology  0.0 0.0
+different view  0.0 0.0
+the formal economy  0.0 0.0
+undocumented labor  0.0 0.0
+a rank mischaracterization  0.0 0.0
+a bipartisan issue  0.0 0.0
+the last president  0.0 0.0
+an electric grid  0.0 0.0
+a great benefit  1.0 0.0
+the Russian government  0.0 0.0
+the Russian government  0.0 0.0
+important question  0.643 0.0
+Russian espionage  0.0 0.0
+wish list  0.73 0.0
+clear favorite  1.0 0.0
+an unprecedented situation  0.0 0.0
+a foreign government  0.0 0.0
+civilian intelligence  0.756 0.0
+The bottom line  0.0 0.0
+that awesome responsibility  0.672 0.0
+an unprecedented way  0.0 0.0
+the nuclear button  0.0 0.0
+nuclear competition  0.0 0.0
+the only way  0.0 0.0
+the middle class  0.0 0.0
+advanced manufacturing  0.667 0.0
+clean energy  1.0 0.0
+a serious problem  0.0 1.0
+small business  0.0 0.0
+the national minimum  0.0 0.0
+equal pay  0.0 0.583
+technical education  0.0 0.0
+a public college  0.0 0.0
+fair share  1.0 0.0
+whole plan  0.0 0.0
+another Great Recession  0.519 0.354
+massive tax  0.0 0.0
+the national debt  0.0 0.556
+economic disaster  0.0 0.804
+skill training  0.0 0.0
+economic catastrophe  0.0 0.815
+a real touch-and-go situation  0.0 0.0
+a terrible recession  0.0 1.0
+the top down  0.474 0.0
+a long string  0.0 0.0
+the whole economy  0.0 0.0
+the final agreement  0.615 0.0
+the same test  0.0 0.0
+national security  0.706 0.0
+the illegal dumping  0.0 0.855
+Chinese steel  0.0 0.0
+Chinese steel  0.0 0.0
+the first time  0.0 0.0
+an important issue  0.474 0.0
+racial discrimination  0.0 0.0
+an eating machine  0.0 0.0
+the last debate  0.0 0.0
+first choice  0.0 0.0
+next president  0.0 0.0
+a disabled reporter  0.0 0.0
+national television  0.0 0.0
+a young man  0.0 0.0
+a federal judge  0.0 0.0
+dangerous vision  0.392 0.608
+a world-renowned charity  0.737 0.0
+an open discussion  0.0 0.0
+good work  0.744 0.0
+the high rankingsÉ  0.0 0.0
+own country  0.0 0.0
+a six- foot  0.0 0.0
+the catastrophic earthquake  0.0 0.615
+an important part  0.474 0.0
+the American experience  0.0 0.0
+the first candidate  0.0 0.0
+the last debate  0.0 0.0
+federal income  0.0 0.0
+federal income  0.0 0.0
+federal income  0.0 0.0
+Chinese steel  0.0 0.0
+a year-long investigation  0.0 0.0
+the federal judge  0.0 0.0
+a general election  0.0 0.0
+the other day  0.0 0.0
+a big red flag  0.0 0.0
+a hard fight  0.0 1.0
+the hard work  0.0 0.412
+successful military operation  0.655 0.0
+the civil war  0.0 0.661
+a no-fly zone  0.0 0.0
+the constant outflow  0.0 0.0
+the Syrian government  0.0 0.0
+serious negotiation  0.0 0.565
+a political track  0.0 0.0
+clear fact  0.722 0.0
+tough fighting  0.0 1.0
+dangerous person  0.0 0.756
+the modern history  0.0 0.0
+a no-fly zone  0.0 0.0
+the first day  0.0 0.0
+that little 4-year-old boy  0.0 0.0
+thorough vetting  0.0 0.0
+the same place  0.0 0.0
+much smarter  0.75 0.0
+Donald talk  0.0 0.0
+the national debt  0.0 0.556
+fair share  1.0 0.0
+middle-out growth  0.722 0.0
+the middle class  0.0 0.0
+the smartest way  0.667 0.0
+a big disagreement  0.0 0.714
+a small-business man  0.0 0.0
+these massive tax  0.0 0.0
+additional national debt  0.0 0.556
+the long-term health  0.0 0.0
+entitlement spending  0.0 0.0
+the awesome responsibility  0.672 0.0
+the incredible opportunity  0.583 0.0
+#############################
+good question  0.744 0.0
+optimistic view  0.697 0.0
+political beliefs  0.0 0.0
+the same thing  0.0 0.0
+the first debate  0.0 0.0
+the entire world  0.0 0.0
+federal judge  0.0 0.0
+national television  0.0 0.0
+the first debateƒ  0.0 0.0
+real time  0.0 0.0
+Last time  0.0 0.0
+the first debate  0.0 0.0
+a personal e-mail  0.0 0.0
+a year-long investigation  0.0 0.0
+any classified material  0.0 0.0
+classified material  0.0 0.0
+classified information  0.0 0.0
+any classified information  0.0 0.0
+the first debate  0.0 0.0
+big diversion  0.0 0.0
+the next president  0.0 0.0
+a good thing  0.744 0.0
+a pre-existing condition  0.0 0.0
+a big deal  0.0 0.0
+serious health  0.0 0.565
+additional help  0.73 0.0
+a different system  0.0 0.0
+an employer-based system  0.0 0.0
+the vast majority  0.0 0.0
+a single-payer system  0.0 0.0
+a great job  0.804 0.0
+the young man  0.0 0.0
+a particular well-known one  0.0 0.0
+demagogic rhetoric  0.0 0.0
+violent jihadist  0.0 0.796
+that 4-year-old boy  0.0 0.0
+this catastrophic war  0.0 0.877
+Russian aggression  0.0 0.688
+religious freedom  0.808 0.0
+great distress  0.547 0.453
+own county  0.0 0.0
+the final thing  0.0 0.0
+The entire press  0.0 0.0
+a great display  0.804 0.0
+presidential leadership  0.0 0.0
+the Russian government  0.0 0.0
+accurate information  0.0 0.0
+a foreign power  0.0 0.0
+an alternative reality  0.0 0.0
+federal income  0.0 0.0
+a massive gift  0.744 0.0
+the vast majority  0.0 0.0
+every single break  0.0 0.0
+a billion-dollar loss  0.0 0.697
+fair share  1.0 0.0
+carried interest  0.75 0.0
+a Republican president  0.0 0.0
+public service  0.0 0.0
+first lady  0.0 0.0
+Republican mayor  0.0 0.0
+a decent chance  0.667 0.0
+the first time  0.0 0.0
+bipartisan work  0.0 0.0
+common ground  0.0 0.0
+a determined effort  0.706 0.0
+a no-fly zone  0.0 0.0
+a diplomatic resolution  0.0 0.0
+become president  0.0 0.0
+the Iranian nuclear program  0.0 0.0
+a single shot  0.0 0.0
+American ground  0.0 0.0
+serious mistake  0.0 1.0
+a smart strategy  0.73 0.0
+a good chance  1.0 0.0
+the principal way  0.0 0.0
+second term  0.0 0.0
+entire life  0.0 0.0
+public service  0.0 0.0
+a young lawyer  0.0 0.0
+the criminal justice  0.436 0.436
+a public education  0.0 0.0
+a deep devotion  0.75 0.0
+correct word  0.0 0.0
+first question  0.0 0.0
+divisive campaign  0.0 0.0
+national security  0.706 0.0
+the great privilege  0.868 0.0
+financial crisis  0.0 0.804
+a terrible time  0.0 0.756
+the right track  0.0 0.0
+real-life experience  0.0 0.0
+a big law  0.0 0.0
+the current court  0.0 0.0
+the wrong direction  0.0 0.608
+unaccountable money  0.0 0.0
+a big problem  0.0 0.73
+reverse marriage  0.0 0.0
+a terrible mistake  0.0 1.0
+qualified person  0.0 0.0
+the full complement  0.0 0.0
+comprehensive background  0.667 0.0
+the online loophole  0.0 0.0
+American steel  0.0 0.0
+the first time  0.0 0.0
+a damaging effect  0.0 0.767
+natural gas  0.714 0.0
+an important transition  0.474 0.0
+a comprehensive energy  1.0 0.0
+climate change  0.0 0.0
+a serious problem  0.0 1.0
+renewable energy  0.677 0.0
+the 21st century  0.0 0.0
+clean energy  1.0 0.0
+the only candidate  0.0 0.0
+entire policy  0.0 0.0
+important question  0.643 0.0
+an ordinary time  0.0 0.0
+an ordinary election  0.0 0.0
+every single day  0.0 0.0
+#############################
+The central question  0.0 0.0
+second birthday  0.0 0.0
+advanced manufacturing  0.667 0.0
+renewable energy  0.677 0.0
+small business  0.0 0.0
+small business  0.0 0.0
+the national minimum  0.0 0.0
+equal pay  0.0 0.583
+affordable child  0.0 0.0
+debt-free college  0.0 0.0
+fair share  1.0 0.0
+an important issue  0.474 0.0
+fair trade  0.697 0.0
+extreme version  0.0 0.0
+the top percent  0.474 0.0
+a different view  0.0 0.0
+a different experience  0.0 0.0
+the middle class  0.0 0.0
+financial crisis  0.0 0.804
+large part  0.0 0.0
+the middle class  0.0 0.0
+a perfect storm  0.787 0.0
+the last thing  0.0 0.0
+the first place  0.0 0.0
+clean energy  1.0 0.0
+the clean- energy  0.828 0.0
+the 21st century  0.0 0.0
+enough clean energy  0.828 0.0
+a new modern electric grid  0.0 0.0
+new economic activity  0.0 0.0
+the first place  0.0 0.0
+good job  0.744 0.0
+a balanced budget  0.0 0.0
+the same test  0.0 0.0
+national security  0.706 0.0
+the only challenge  0.394 0.0
+a special prosecutor  0.73 0.0
+own reality  0.0 0.0
+a good deal  0.744 0.0
+strong growth  1.0 0.0
+fair growth  1.0 0.0
+robust set  0.706 0.0
+fair share  1.0 0.0
+the corporate tax  0.0 0.0
+trumped-up trickle-down  0.0 0.0
+the middle class  0.0 0.0
+the middle class  0.0 0.0
+the middle class  0.0 0.0
+inclusive growth  0.722 0.0
+bait-and- switch  0.0 0.0
+investigative reporting  0.0 0.0
+any federal income  0.0 0.0
+the financial disclosure  0.0 0.0
+a private e- mail  0.0 0.0
+any federal income  0.0 0.0
+the other thing  0.0 0.0
+main claim  0.0 0.0
+a beautiful facility  0.796 0.0
+late father  0.0 0.0
+a good middle-class  0.744 0.0
+great businesspeople  0.804 0.0
+the national debt  0.0 0.556
+a direct transfer  0.0 0.0
+a significant challenge  1.0 0.0
+the criminal justice  0.436 0.436
+the same time  0.0 0.0
+the first day  0.0 0.0
+criminal justice  0.5 0.5
+the criminal justice  0.436 0.436
+a mutual goal  0.0 0.0
+a big contributor  0.0 0.0
+a dire negative picture  0.0 0.87
+the black church  0.0 0.0
+violent crime  0.0 1.0
+good cooperation  0.744 0.0
+a young African-American man  0.0 0.0
+the same thing  0.0 0.0
+a young white man  0.0 0.0
+the systemic racism  0.0 0.672
+criminal justice  0.5 0.5
+the criminal justice  0.436 0.436
+second chance  0.667 0.0
+the federal system  0.0 0.0
+many military- style  0.0 0.0
+comprehensive background  0.667 0.0
+the terrorist watch  0.0 0.701
+a bipartisan way  0.0 0.0
+implicit bias  0.0 0.583
+great country  0.804 0.0
+first budget  0.0 0.0
+implicit bias  0.0 0.583
+experienced police  0.0 0.0
+Mental health  0.0 0.0
+difficult mental health  0.0 0.556
+the federal government  0.0 0.0
+the current mayor  0.0 0.0
+an excellent job  0.649 0.0
+a good thing  0.744 0.0
+the whole racist  0.0 0.667
+political activity  0.0 0.0
+first black president  0.0 0.0
+an American citizen  0.0 0.0
+racial discrimination  0.0 0.0
+a long record  0.0 0.0
+great dignity  1.0 0.0
+amazing speech  0.792 0.0
+cyber security  0.706 0.0
+the next president  0.0 0.0
+the independent hacking  0.0 0.0
+long game  0.0 0.0
+collect information  0.0 0.0
+private-sector information  0.0 0.0
+public-sector information  0.0 0.0
+a different kind  0.773 0.0
+national security  0.706 0.0
+Republican information  0.0 0.0
+the commander- in-chief  0.0 0.0
+foreign money  0.0 0.0
+the top priority  0.474 0.0
+the only way  0.0 0.0
+the then-Iraqi government  0.0 0.0
+important part  0.643 0.0
+military alliance  0.0 0.0
+a military alliance  0.0 0.0
+the only time  0.0 0.0
+enough nuclear material  0.0 0.0
+the nuclear fuel  0.0 0.0
+nuclear program  0.0 0.0
+a single shot  0.0 0.0
+The other day  0.0 0.0
+a nearby ship  0.0 0.0
+good judgment  0.744 0.0
+the right temperament  0.0 0.0
+commander-in- chief  0.0 0.0
+nuclear war  0.0 0.796
+a good time  0.744 0.0
+cavalier attitude  0.0 0.0
+the number-one threat  0.0 0.63
+any nuclear material  0.0 0.0
+mutual defense  0.6 0.0
+the entire global situation  0.0 0.0
+nuclear program  0.0 0.0
+a secret plan  0.0 0.0
+the only secret  0.0 0.0
+a congressional committee  0.0 0.0
+equal pay  0.0 0.583
+#############################
+a tremendous number  0.565 0.0
+absolute siege  0.0 0.0
+small replica  0.0 0.0
+such trauma  0.0 0.737
+a conservative bent  0.0 0.0
+tremendous respect  0.756 0.0
+a well-crafted decision  0.0 0.0
+gun violence  0.0 1.0
+any other city  0.0 0.0
+tremendous gun  0.0 0.706
+strong supporter  1.0 0.0
+a sarcastic manner  0.0 0.667
+the ninth month  0.0 0.0
+the ninth month  0.0 0.0
+the final day  0.0 0.0
+last week  0.0 0.0
+First time  0.0 0.0
+the other day  0.0 0.0
+southern border  0.0 0.0
+a later date  0.0 0.0
+good meeting  0.744 0.0
+nice man  0.737 0.0
+big league  0.0 0.0
+the right way  0.0 0.0
+big league  0.0 0.0
+a great pivot  0.804 0.0
+serious trouble  0.0 1.0
+every single step  0.0 0.0
+a big proponent  0.0 0.0
+massive tax  0.0 0.0
+a big fan  0.697 0.0
+nice way  0.737 0.0
+national debt  0.0 0.714
+free trade  0.767 0.0
+free trade  0.767 0.0
+free trade  0.767 0.0
+a great deal  0.804 0.0
+a great trade  0.804 0.0
+a separate way  0.0 0.0
+a 10-year period  0.0 0.0
+low number  0.382 0.618
+last report  0.0 0.0
+Last week  0.0 0.0
+last week  0.0 0.0
+an incredible education  0.0 0.0
+the last year  0.0 0.0
+the gold standard  0.0 0.0
+the gold standard  0.0 0.0
+a simple question  0.0 0.0
+bad experience  0.0 0.778
+a massive company  0.0 0.0
+a great company  0.804 0.0
+a phenomenal company  0.0 0.0
+real record  0.0 0.0
+this huge vacuum  0.535 0.0
+a small group  0.0 0.0
+that huge vacuum  0.535 0.0
+such violence  0.0 0.804
+the only way  0.0 0.0
+a criminal act  0.0 0.773
+sleazy campaign  0.0 0.0
+crooked campaign  0.0 0.0
+a criminal enterprise  0.0 0.773
+a criminal enterprise  0.0 0.773
+a great gesture  0.804 0.0
+a tremendous amount  0.0 0.0
+the other day  0.0 0.0
+small foundation  0.0 0.0
+the American flag  0.0 0.0
+the American flag  0.0 0.0
+the American flag  0.0 0.0
+the same thing  0.0 0.0
+the same thing  0.0 0.0
+much money  0.0 0.0
+beautiful hotel  0.796 0.0
+false ad  0.0 0.0
+much money  0.0 0.0
+other thing  0.0 0.0
+other thing  0.0 0.0
+serious crime  0.0 1.0
+the big winner  0.655 0.0
+the only reason  0.0 0.0
+the red line  0.0 0.0
+the great migration  0.672 0.0
+a wonderful thing  0.787 0.0
+the big winner  0.655 0.0
+bad judgment  0.0 0.778
+bad judgment  0.0 0.778
+a big mistake  0.0 0.706
+a humanitarian nightmare  0.0 0.0
+a bad guy  0.0 0.778
+the great migration  0.672 0.0
+a great job  0.804 0.0
+the first place  0.0 0.0
+a tremendous machine  0.0 0.0
+a tremendous economic machine  0.0 0.0
+an economic machine  0.0 0.0
+small business  0.0 0.0
+own weight  0.0 0.0
+Next year  0.0 0.0
+expensive price  0.0 0.0
+a nasty woman  0.0 0.783
+shot walking  0.0 0.0
+#############################
+a great country  0.804 0.0
+a great land  0.804 0.0
+the last year-and-a-half  0.0 0.0
+whole concept  0.0 0.0
+a one-sided transaction  0.0 0.0
+a terrorist state  0.0 0.825
+a strong country  0.767 0.0
+weak country  0.0 0.744
+such tremendous potential  0.0 0.0
+Last year  0.0 0.0
+a strong border  0.767 0.0
+a weekly basis  0.0 0.0
+the same time  0.0 0.0
+bad judgment  0.0 0.778
+great respect  1.0 0.0
+tremendous respect  0.756 0.0
+a terrible job  0.0 0.756
+the primary part  0.0 0.0
+great respect  1.0 0.0
+a wonderful woman  0.787 0.0
+young woman  0.0 0.0
+another real winner  0.655 0.0
+a certain garb  0.677 0.0
+last week  0.0 0.0
+a special prosecutor  0.73 0.0
+much deception  0.0 0.744
+a special prosecutor  0.73 0.0
+expensive process  0.0 0.0
+a special prosecutor  0.73 0.0
+a yoga class  0.0 0.0
+the private sector  0.0 0.0
+a great question  0.804 0.0
+bad health  0.0 0.778
+a single-payer plan  0.0 0.0
+a big operation  0.0 0.0
+single payer  0.0 0.0
+the first step  0.0 0.0
+a total disaster  0.0 0.804
+a disastrous plan  0.0 0.796
+bad judgment  0.0 0.778
+a perfect example  0.787 0.0
+much competition  0.0 0.0
+a great lie  0.804 0.0
+a big lie  0.0 0.0
+The whole thing  0.0 0.0
+difficult situation  0.0 0.714
+an American hero  0.643 0.0
+alive today  0.722 0.0
+alive today  0.722 0.0
+a extreme vetting  0.0 0.0
+extreme vetting  0.0 0.0
+bad judgment  0.0 0.778
+bad judgment  0.0 0.778
+southern border  0.0 0.0
+a presidential candidate  0.0 0.0
+a horrible thing  0.0 0.778
+bad judgment  0.0 0.778
+a total lie  0.0 0.0
+the good thing  0.592 0.0
+the big difference  0.0 0.0
+big difference  0.0 0.0
+great balance  0.804 0.0
+the primary area  0.0 0.0
+the primary thing  0.0 0.0
+balance sheet  0.0 0.0
+simple thing  0.0 0.0
+a massive deduction  0.0 0.0
+a massive deduction  0.0 0.0
+routine audit  0.0 0.0
+carried interest  0.75 0.0
+the same advantage  0.5 0.0
+carried interest  0.75 0.0
+the middle class  0.0 0.0
+big league  0.0 0.0
+the middle class  0.0 0.0
+a big difference  0.0 0.0
+a national catastrophe  0.0 0.815
+massive tax  0.0 0.0
+write- off  0.0 0.0
+the carried interest  0.6 0.0
+the carried interest  0.6 0.0
+carried interest  0.75 0.0
+federal tax  0.0 0.0
+a wonderful charge  0.787 0.0
+bad judgment  0.0 0.778
+bad judgment  0.0 0.778
+the first place  0.0 0.0
+that little area  0.0 0.0
+Great job  0.804 0.0
+an effective senator  0.608 0.0
+an effective senator  0.608 0.0
+an effective senator  0.608 0.0
+the so-called line  0.0 0.0
+total contact  0.0 0.0
+nuclear program  0.0 0.0
+nuclear program  0.0 0.0
+bad thing  0.0 0.778
+a good chunk  0.744 0.0
+foreign policy  0.0 0.0
+weak foreign policy  0.0 0.592
+the same time  0.0 0.0
+powerful nation  0.737 0.0
+rich nation  0.783 0.0
+foreign policy  0.0 0.0
+a sneak attack  0.0 0.756
+the American public  0.0 0.0
+a tremendous success  0.787 0.0
+a big deal  0.0 0.0
+a large group  0.0 0.0
+the gold standard  0.0 0.0
+the last debate  0.0 0.0
+the gold standard  0.0 0.0
+The same exact thing  0.0 0.0
+divided nation  0.0 0.0
+tremendous hate  0.0 0.787
+the famous thing  0.0 0.0
+a good guy  0.744 0.0
+a modern day  0.0 0.0
+effective way  0.756 0.0
+effective form  0.756 0.0
+great judge  0.804 0.0
+this big money  0.0 0.0
+much self-funding money  0.0 0.0
+own campaign  0.0 0.0
+a nice sign  0.737 0.0
+the American public  0.0 0.0
+own campaign  0.0 0.0
+a great question  0.804 0.0
+et cetera  0.0 0.0
+clean coal  0.73 0.0
+natural gas  0.714 0.0
+tremendous wealth  0.762 0.0
+national debt  0.0 0.714
+tremendous budget  0.0 0.0
+a great place  0.804 0.0
+an absolute disgrace  0.0 0.615
+nice compliment  1.0 0.0
+a wonderful job  0.787 0.0
+good trait  0.744 0.0
+#############################
+good fight  0.527 0.473
+a piggy bank  0.0 0.0
+the same thing  0.0 0.0
+the eighth wonder  0.0 0.0
+small car  0.0 0.0
+child care  0.762 0.0
+a little bit  0.0 0.0
+a beautiful thing  0.796 0.0
+small loan  0.0 0.0
+deep trouble  0.0 0.73
+sad thing  0.0 0.756
+a different system  0.0 0.0
+a defective agreement  0.525 0.475
+a long time  0.0 0.0
+the first thing  0.0 0.0
+some other country  0.0 0.0
+good luck  1.0 0.0
+big factor  0.0 0.0
+a solar company  0.0 0.0
+a great believer  0.804 0.0
+semi- exact  0.0 0.0
+the gold standard  0.0 0.0
+the gold standard  0.0 0.0
+big league  0.0 0.0
+big league  0.0 0.0
+entire adult  0.0 0.0
+a tremendous job  0.0 0.0
+the carried interest  0.6 0.0
+a great thing  0.804 0.0
+a great thing  0.804 0.0
+the middle class  0.0 0.0
+a great thing  0.804 0.0
+the bureaucratic red tape  0.0 0.0
+bureaucratic red tape  0.0 0.0
+a little leadership  0.0 0.0
+Typical politician  0.0 0.0
+a bubble right  0.0 0.0
+the only thing  0.0 0.0
+a little bit  0.0 0.0
+a routine audit  0.0 0.0
+financial statement  0.0 0.0
+this past year  0.0 0.0
+every single country  0.0 0.0
+the illegal server  0.0 0.643
+financial disclosure  0.0 0.0
+The other thing  0.0 0.0
+the same report  0.0 0.0
+a bad story  0.0 0.778
+a great company  0.804 0.0
+a tremendous income  0.0 0.0
+a braggadocios way  0.0 0.0
+great shape  0.804 0.0
+a third world  0.0 0.0
+a third world  0.0 0.0
+a serious debtor  0.0 0.565
+a good job  0.744 0.0
+an unbelievable company  0.474 0.0
+real estate  0.0 0.0
+an unbelievable company  0.474 0.0
+a long time  0.0 0.0
+tremendous money  0.0 0.0
+a large extent  0.0 0.0
+a large percentage  0.0 0.0
+a war-torn country  0.0 0.0
+the last number  0.394 0.0
+against-police judge  0.0 0.0
+new mayor  0.0 0.0
+good community  0.744 0.0
+a beautiful thing  0.796 0.0
+own party  0.73 0.0
+no- fly  0.0 0.688
+a watch list  0.0 0.0
+a no-fly list  0.0 0.0
+young black youth  0.0 0.0
+a terrible thing  0.0 0.756
+a political reason  0.0 0.0
+stop-and-frisk brought  0.0 0.0
+current mayor  0.0 0.0
+stop-and- frisk  0.0 0.0
+a tremendous impact  0.0 0.0
+big impact  0.0 0.0
+close friend  0.762 0.0
+this past week  0.0 0.0
+a strong border  0.767 0.0
+a good job  0.744 0.0
+the last week  0.0 0.0
+former campaign  0.0 0.0
+a long time  0.0 0.0
+a great job  0.804 0.0
+a great service  0.804 0.0
+terrible disrespect  0.0 1.0
+lovely everything  0.792 0.0
+a certain garb  0.677 0.0
+last week  0.0 0.0
+a real estate  0.0 0.0
+a federal lawsuit  0.0 0.655
+many real estate  0.0 0.0
+tough community  0.0 0.6
+a brilliant community  0.792 0.0
+a wealthy community  0.714 0.0
+great credit  1.0 0.0
+successful club  0.792 0.0
+great credit  1.0 0.0
+the true way  0.583 0.0
+next week  0.0 0.0
+own game  0.0 0.0
+a huge problem  0.46 0.54
+whole governmental society  0.0 0.0
+a long time  0.0 0.0
+a long time  0.0 0.0
+a long time  0.0 0.0
+primary source  0.0 0.0
+a total mess  0.0 0.714
+a large extent  0.0 0.0
+a major power  0.0 0.0
+a major show  0.0 0.0
+common sense  0.0 0.0
+fair share  1.0 0.0
+the front page  0.0 0.0
+a major terror  0.0 0.773
+a little infant  0.0 0.0
+first time  0.0 0.0
+the other day  0.0 0.0
+a major magazine  0.0 0.0
+a stupid thing  0.0 0.773
+a winning temperament  0.773 0.0
+the other day  0.0 0.0
+a little bit  0.0 0.0
+an accurate one  0.0 0.0
+The single greatest  0.677 0.0
+nuclear armament  0.0 0.0
+global warming  0.615 0.0
+tremendous service  0.0 0.0
+a fair share  1.0 0.0
+the new standpoint  0.0 0.0
+the other night  0.0 0.0
+the same time  0.0 0.0
+horrible deal  0.0 0.778
+the other day  0.0 0.0
+a happy camper  0.787 0.0
+the first place  0.0 0.0
+a big problem  0.0 0.73
+some basic ability  0.535 0.0
+great power  0.804 0.0
+tremendous stamina  0.688 0.0
+bad experience  0.0 0.778
+bad experience  0.0 0.778
+a good deal  0.744 0.0
+bad experience  0.0 0.778
+a nice thing  0.737 0.0
+the only gratifying thing  0.524 0.0
+The other day  0.0 0.0
+the wrong button  0.0 0.608
+the wrong button  0.0 0.608
+good reason  0.744 0.0
